@@ -2,7 +2,7 @@
 
 ### Scratch Project done as part of CS50: Intorduction to Programming 
 
-A Simple 2-player game where the player has to collect falling object from the sky. 
+A Simple 2-player game where the player has to collect falling objects from the sky. 
 
 Objective: Collect most points
 Time limit - 120 seconds
