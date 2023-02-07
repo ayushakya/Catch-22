@@ -1,6 +1,6 @@
 # Catch-22
 
-### Scratch Project done as part of CS50: Intorduction to Programming 
+### Scratch Project done as part of CS50: Introduction to Computer Science 
 
 A Simple 2-player game where the player has to collect falling objects from the sky. 
 
